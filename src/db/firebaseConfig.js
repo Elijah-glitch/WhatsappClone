@@ -4,7 +4,7 @@ const firebaseConfig ={
   projectId: "roblox-29707",
   storageBucket: "roblox-29707.appspot.com",
   messagingSenderId: "1025034692104",
-  appId: "1:1025034692104:web:628690bd4a9e9bf83293bd
+  appId: "1:1025034692104:web:628690bd4a9e9bf83293bd"
 };
 
 export default firebaseConfig;
