@@ -1,10 +1,10 @@
-const firebaseConfig ={
-  apiKey: "AIzaSyA74ZvfzfZVmopLVsbl88Y02CUaXNWGgwk",
-  authDomain: "roblox-29707.firebaseapp.com",
-  projectId: "roblox-29707",
-  storageBucket: "roblox-29707.appspot.com",
-  messagingSenderId: "1025034692104",
-  appId: "1:1025034692104:web:628690bd4a9e9bf83293bd
+const firebaseConfig = {
+  apiKey: "AIzaSyA--ei9WTUHVb52EvWNG3aZ2Pe_piEJXtQ",
+  authDomain: "tcapsmoviesv2.firebaseapp.com",
+  projectId: "tcapsmoviesv2",
+  storageBucket: "tcapsmoviesv2.appspot.com",
+  messagingSenderId: "842410031578",
+  appId: "1:842410031578:web:c5924f5c88b7e2cf56e8e3"
 };
 
 export default firebaseConfig;
